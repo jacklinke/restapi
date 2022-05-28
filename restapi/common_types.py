@@ -6,6 +6,7 @@ import base64
 import shutil
 import contextlib
 from .rest_utils import *
+from .rest_utils import validate_name
 from .decorator import decorator
 import sys
 import warnings
